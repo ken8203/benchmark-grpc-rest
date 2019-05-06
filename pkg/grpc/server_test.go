@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	api "github.com/ken8203/benchmark-grpc-rest/cmd/grpc/proto"
+	api "github.com/ken8203/benchmark-grpc-rest/pkg/grpc/proto"
 	"google.golang.org/grpc"
 )
 
